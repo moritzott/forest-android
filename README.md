@@ -16,7 +16,7 @@ So here are the steps:
 * API 16: Android 4.1 (Jelly Beans)
 
 ## Size
-* ca. 56 MB
+* ca. 69 MB
 
 ## Current Version
 * Forest v1.0-alpha
