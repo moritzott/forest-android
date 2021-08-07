@@ -1,6 +1,8 @@
 # Forest for Android
 Mobile App Version for Forest.
 
+[Forest Demo](./forest-demo.jpg)
+
 ## Installation
 Currently the Forest-App is not available in the Google Play Store (maybe in future).
 But you can download a signed APK-File for Android in my Google Drive Folder and install it manually on your phone.
