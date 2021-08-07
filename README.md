@@ -1,7 +1,7 @@
 # Forest for Android
 Mobile App Version for Forest.
 
-[Forest Demo](./forest-demo.jpg)
+![Forest Demo](./forest-demo.jpg)
 
 ## Installation
 Currently the Forest-App is not available in the Google Play Store (maybe in future).
