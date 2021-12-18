@@ -4,7 +4,7 @@ Mobile App Version for Forest.
 ![Forest Demo](./forest-demo.jpg)
 
 ## Installation
-The application is currently receiving an update. Should the tests be completed, you will receive the information on how to install it here.
+The application is currently receiving an update. If the tests are completed, you will receive the information on how to install it here.
 
 ## Minimum Requirements
 * API 16: Android 4.1 (Jelly Beans)
